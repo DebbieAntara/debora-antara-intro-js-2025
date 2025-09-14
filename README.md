@@ -1,6 +1,5 @@
 # debora-antara-intro-js-2025
 ## Índice
-- [06_git_github](./06_git_github/)
 - [08_js_intro](./08_js_intro/)
 - [09_estructura_variables](./09_estructura_variables/)
 - [11_estructuras1](./11_estructuras1/)
